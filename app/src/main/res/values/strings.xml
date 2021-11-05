@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidData</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"><p>this is a paragraph <u>
+        wassup folks
+    </u></p></string>
+    <string name="htmlDemo">
+        <p>
+            this is a demo of the html version that we have <u>
+            and very important
+        </u>
+        </p>
+    </string>
+</resources>
